@@ -11,7 +11,9 @@ export default {
     },
     methods: {
         // 写一个冒泡排序
-        
+        getList() {
+            
+        }
     }
 }
 </script>
